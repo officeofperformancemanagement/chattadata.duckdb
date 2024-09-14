@@ -1,3 +1,5 @@
+:warning: work in progress
+
 # chattadata.duckdb
 ChattaData DuckDB
 
