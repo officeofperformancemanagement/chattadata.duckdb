@@ -1,0 +1,2 @@
+# chattadata.duckdb
+ChattaData DuckDB
